@@ -1,9 +1,9 @@
 {
     "AUTHOR" : "Roxedus",
     "INSTALL_MSG" : "Im going to try not crash your server",
-    "NAME" : "DymGames",
-    "SHORT" : "Yeet",
-    "DESCRIPTION" : "ya",
+    "NAME" : "YeetGames",
+    "SHORT" : "Yeets the current games",
+    "DESCRIPTION" : "yote",
     "TAGS" : ["utility", "fun"],
     "HIDDEN" : false
 }
